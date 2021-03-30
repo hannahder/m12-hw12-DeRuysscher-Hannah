@@ -3,3 +3,29 @@
   margin: 0;
   border: 0;
 }
+
+main {
+  max-width: 700px;
+  margin:auto;
+  text-align: center;
+  padding-top: 20%;
+  font-family: 'Montserrat', sans-serif}
+
+body {
+  background-image: linear-gradient(to right, purple, pink);
+}
+
+button {
+  padding: 10px;
+  font-size: 2rem;
+}
+
+h1 {
+  padding-bottom: 20px;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+  padding-top: 20px;
+}
