@@ -9,10 +9,6 @@ let colors = ["red",
                 "orange",
                 "grey"];
 
-
-
-
-// console.log(randColor);
 const button = document.getElementById('button')
 
 button.onclick = function(){
