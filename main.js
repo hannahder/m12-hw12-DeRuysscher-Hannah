@@ -1,13 +1,13 @@
 let colors = ["red",
-                "blue",
-                "green",
-                "yellow",
-                "pink",
-                "purple",
-                "black",
-                "white",
-                "orange",
-                "grey"];
+                "blue.",
+                "green.",
+                "yellow.",
+                "pink.",
+                "purple.",
+                "black.",
+                "white.",
+                "orange.",
+                "grey."];
 
 const button = document.getElementById('button')
 
