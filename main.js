@@ -11,7 +11,7 @@ let colors = ["red",
 
 const button = document.getElementById('button')
 
-button.onclick = function(){
+button.onclick = () =>{
   const randColor = colors[Math.floor(Math.random()*colors.length)];
   document.getElementById('color').innerHTML = randColor;
 };
